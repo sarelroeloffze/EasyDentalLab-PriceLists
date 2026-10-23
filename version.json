@@ -1,0 +1,19 @@
+{
+  "version": "2027.1",
+  "releaseDate": "2026-10-23",
+  "tariffs": {
+    "filename": "Tariffs-2027.csv",
+    "version": "2027.1",
+    "codeCount": 364,
+    "lastUpdated": "2026-10-23",
+    "changes": "Initial price list repository - current tariff codes and prices"
+  },
+  "medicalAids": {
+    "filename": "MedicalAids-2027.csv",
+    "version": "2027.1",
+    "aidCount": 14,
+    "lastUpdated": "2026-10-23",
+    "changes": "Initial medical aids list with default plans"
+  },
+  "notes": "Baseline price list for EasyDentalLab auto-update system"
+}
