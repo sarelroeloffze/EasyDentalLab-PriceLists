@@ -15,5 +15,12 @@
     "lastUpdated": "2026-10-23",
     "changes": "Initial medical aids list with default plans"
   },
-  "notes": "Baseline price list for EasyDentalLab auto-update system"
+  "medicalAidTariffs": {
+    "filename": "MedicalAidTariffs-2027.csv",
+    "version": "2027.1",
+    "rateCount": 50,
+    "lastUpdated": "2026-10-28",
+    "changes": "Template medical aid rates - 5 medical aids × 10 codes (example only, expand as needed)"
+  },
+  "notes": "Baseline price list for EasyDentalLab auto-update system. MedicalAidTariffs is optional - provides custom pricing per medical aid that overrides base Tariffs prices."
 }
