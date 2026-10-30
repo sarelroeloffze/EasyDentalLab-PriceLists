@@ -4,7 +4,7 @@
   "tariffs": {
     "filename": "Tariffs-2027.csv",
     "version": "2027.1",
-    "codeCount": 364,
+    "codeCount": 341,
     "lastUpdated": "2026-10-23",
     "changes": "Initial price list repository - current tariff codes and prices"
   },
@@ -12,8 +12,10 @@
     "filename": "MedicalAids-2027.csv",
     "version": "2027.2",
     "aidCount": 17,
+    "planCombinations": 17,
+    "uniqueAids": 9,
     "lastUpdated": "2026-10-30",
-    "changes": "Added GEMS, DENIS, and POLMED medical aids"
+    "changes": "9 medical aids with 17 plan combinations: Discovery Health (3 plans), Bonitas (3), Momentum (2), Bestmed (2), Fedhealth (2), Medshield (2), GEMS, DENIS, POLMED"
   },
   "medicalAidTariffs": {
     "filename": "MedicalAidTariffs-2027.csv",
