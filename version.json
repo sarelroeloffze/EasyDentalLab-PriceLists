@@ -17,10 +17,10 @@
   },
   "medicalAidTariffs": {
     "filename": "MedicalAidTariffs-2027.csv",
-    "version": "2027.2",
+    "version": "2027.3",
     "rateCount": 856,
     "lastUpdated": "2026-10-30",
-    "changes": "Full 2026 medical aid rates: Discovery Health (184), GEMS (207), DENIS (233), POLMED (232) - extracted from official DENTASA tariff schedules"
+    "changes": "Fixed CSV format - added ID column (was causing parse errors). Full 2026 medical aid rates: Discovery Health (184), GEMS (207), DENIS (233), POLMED (232)"
   },
   "notes": "Baseline price list for EasyDentalLab auto-update system. MedicalAidTariffs is optional - provides custom pricing per medical aid that overrides base Tariffs prices."
 }
